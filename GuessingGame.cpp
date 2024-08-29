@@ -25,6 +25,7 @@ int main() {
     cout << "Your number is too low" << endl;
     guessNum++;
     }
+
     cout << "Good Job you won in" << guessNum << "guesses" << endl;
     cout << "Do you want to play again?" << "(y/n)" << endl;
     cin >> answ;
