@@ -104,3 +104,60 @@ git status
 git commit -m
 git commit -m "Jfdosiafj
 git commit -m "Jfdosiafj"
+git status
+git add .
+git add
+git add .
+git status
+git commit -m "Reorginzied"
+git push origin main
+ls
+g++ -o guessinggame GuessingGame.cpp
+./guessinggame.exe
+./guessinggame.exe
+g++ -o guessinggame GuessingGame.cpp
+./guessinggame.exe
+1
+12
+g++ -o guessinggame GuessingGame.cpp
+./guessinggame.exe
+12
+g++ -o guessinggame GuessingGame.cpp
+g++ -o guessinggame GuessingGame.cpp
+g++ -o guessinggame GuessingGame.cpp
+./guessinggame.exe
+ls
+ls
+mv \#GuessingGame.cpp# GuessingGame.cpp
+ls
+emacs GuessingGame.cpp
+ls
+ls
+GuessingGame.cpp
+emacs GuessinGame.cpp
+ls
+emacs GuessinGame.cpp
+emacs GuessingGame.cpp
+emacs GuessingGame.cpp
+ls
+emacs \#GuessingGame.cpp# 
+g++ -o guessinggame GuessingGame.cpp
+./guessinggame.exe
+g++ -o guessinggame GuessingGame.cpp
+g++ -o guessinggame GuessingGame.cpp
+./guessinggame.exe
+1
+g++ -o guessinggame GuessingGame.cpp
+./guessinggame.exe
+./guessinggame.exe
+git status
+git add .
+git status
+ls
+git commit -m "Added all functionality, just gotta test it"
+git push origin main
+g++ -o guessinggame GuessingGame.cpp
+./guessinggame.exe
+git add .
+git commit -m "Fix some of the command like text spaces and fix not generating a new seed each time"
+git push origin main
