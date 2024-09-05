@@ -1,6 +1,11 @@
 /*
   A simple game where the user guesses a random number between 0 and 100
   Nathaniel Wu 9/3/2024
+
+  Following the 3 C++ rules:
+  -No global variables
+  -No strings (only use libraries or cstrings (char arrays))
+  -Use <iostream> and not the other ones. And use new & delete not malloc & free
  */
 
 #include <iostream>
